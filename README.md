@@ -6,6 +6,9 @@ Automate logging into Project Epoch — with smart image detection, config handl
 
 ## ✨ Features
 - **Auto login** using image recognition
+  - Login
+  - Selecting Realm
+  - Handles any type of login issue, server down, disconnect, etc...
 - **Server selection** (Kezan / Gurubashi)
 - **Display mode** toggle (Maximized / Windowed)
 - **GlueXML auto-install**
